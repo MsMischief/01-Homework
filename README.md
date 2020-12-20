@@ -7,20 +7,20 @@
   
    ## Files
    \
-   index.html
-   style.cc
-   brand-awareness.png
-   cost-management.png
-   digital-marketing-meeting.jpg
-   lead-generation.png
-   online-reputation-management.jpg
-   search-engine-optimization.jpg
+   index.html\
+   style.cc\
+   brand-awareness.png\
+   cost-management.png\
+   digital-marketing-meeting.jpg\
+   lead-generation.png\
+   online-reputation-management.jpg\
+   search-engine-optimization.jpg\
    social-media-marketing.jpg
    
    
-   ##Deployed Website
+   ## Deployed Website
    \
-   ![Website screenshot] (assets/images/screenshot.png)
+   ![Website screenshot](https://github.com/MsMischief/01-Homework/blob/main/assets/images/screenshot.PNG)
    
    
    ## Credits
